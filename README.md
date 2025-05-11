@@ -4,8 +4,8 @@ Welcome to my portfolio website! This space is a showcase of my skills, projects
 
 ## 🔗 Links
 
-- **Live Site**: [Portfolio Website](https://kirtanpatel01.github.io/ARKA_WD_04/)
-- **GitHub Repository**: [GitHub Repo](https://github.com/kirtanpatel01/ARKA_WD_04)
+- **Live Site**: [Portfolio Website](https://github.com/rspatel10/portfolio.git)
+- **GitHub Repository**: [GitHub Repo](https://github.com/rspatel10/portfolio.git)
 
 ## 📁 Project Sections
 
@@ -24,7 +24,7 @@ Welcome to my portfolio website! This space is a showcase of my skills, projects
 To run this project locally:
 1. Clone this repository: 
     ```bash
-    git clone https://github.com/kirtanpatel01/ARKA_WD_04.git
+    git clone https://github.com/rspatel10/portfolio.git
     ```
 2. Install dependencies:
     ```bash
