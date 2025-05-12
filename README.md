@@ -1,4 +1,4 @@
-# Kirtan Patel's Portfolio Website
+# Rudra Patel's Portfolio Website
 
 Welcome to my portfolio website! This space is a showcase of my skills, projects, and professional journey as I continue to learn, build, and grow in the field of web development and software engineering.
 
